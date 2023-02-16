@@ -1,0 +1,8 @@
+#Name: Shreshta Chowdhury
+#Student#: 162886196
+#Course: OPS445NBB
+
+#!
+
+with open("shreshta.txt", "w") as file:
+    file.write("Hello, my name is Shreshta Chowdhury and my student ID is schowdhury58")
